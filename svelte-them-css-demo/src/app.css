@@ -1,0 +1,7 @@
+
+/* Css dark mode */
+body.dark {
+  background: black;
+  color: white;
+}
+
